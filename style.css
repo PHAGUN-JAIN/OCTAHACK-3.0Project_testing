@@ -89,7 +89,10 @@ body{
   color: #717171;
   border-bottom: 1px solid #e0e4e8;
 }
-
+.wrapper .main_content .banner img{
+  width:100%;
+  height:750px;
+}
 .wrapper .main_content .info{
   margin: 20px;
   color: #717171;
